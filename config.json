@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfetch",
+        "uuid": 22103060,
+        "checksum": "iksez"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
